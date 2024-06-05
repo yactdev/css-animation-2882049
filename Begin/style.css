@@ -9,6 +9,7 @@ img {width: 150px;}
 
 .robot {
 
+  transform: translate(100px,200px) scale(2);
 }
 
 
